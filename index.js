@@ -26,7 +26,7 @@ console.log(dinasaurusAndNmbers[5][1]);*/
 var animals = [];
 
 animals.push("kot");
-animals.push("pes");
+animals.push("lama");
 animals.push("korova");
 
 console.log(animals);
